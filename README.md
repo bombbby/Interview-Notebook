@@ -114,11 +114,11 @@ File, InputStream OutputStream, Reader Writer, Serializable, Socket, NIO
 
 ## 工具 :hammer:
 
-> [Git](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/Git.md)
+> [Git(√)](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/Git.md)
 
 整理一些 Git 的使用和概念。
 
-> [正则表达式](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/正则表达式.md)
+> [正则表达式(√)](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/正则表达式.md)
 
 整理自《正则表达式必知必会》
 
