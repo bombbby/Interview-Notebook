@@ -23,7 +23,7 @@
 
 ## 操作系统 :computer:
 
-> [计算机操作系统](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/计算机操作系统.md)
+> [计算机操作系统(√)](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/计算机操作系统.md)
 
 整理自《现代操作系统》和《计算机操作系统》
 
